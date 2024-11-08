@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Frelin 
+- prénom : Alice
+- URL Netlify : alice.frelin@edu.univ-fcomte.fr
 
 # Travail
 
